@@ -85,13 +85,13 @@ main{
 }
 main h1{
     background-image: linear-gradient( to right, var(--cor1), transparent);
-    font-family: 'Idroid';
+    font-family: 'Idroid', 'cursive';
     color: var(--cor4);
     font-weight: normal;
 }
 main h2{
     background-image: linear-gradient( to right, var(--cor1), transparent);
-    font-family: 'Idroid';
+    font-family: 'Idroid', 'cursive';
     color: var(--cor4);
     font-size: 1.3em;
     font-weight: normal;
