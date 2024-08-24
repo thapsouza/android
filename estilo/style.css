@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: Idroid;
+    font-family: 'Idroid';
     src: url(idroid.otf) format(opentype);
 }
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
@@ -85,13 +85,13 @@ main{
 }
 main h1{
     background-image: linear-gradient( to right, var(--cor1), transparent);
-    font-family: Idroid;
+    font-family: 'Idroid';
     color: var(--cor4);
     font-weight: normal;
 }
 main h2{
     background-image: linear-gradient( to right, var(--cor1), transparent);
-    font-family: Idroid;
+    font-family: 'Idroid';
     color: var(--cor4);
     font-size: 1.3em;
     font-weight: normal;
